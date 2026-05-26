@@ -1,0 +1,2 @@
+File name: src/pl/pp/sample_text.txt
+Number of lines: 6
