@@ -1,0 +1,13 @@
+This is a sample text file used for testing input and output operations in Java.
+
+Line one
+Line two
+Line three
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit.
+
+Bullet point one
+Bullet point two
+Bullet point three
+
+End of file.
